@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.17962962962962964" />
+        <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.125" />
+        <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/drawable/ic_vector_chrome.xml" value="0.16018518518518518" />
         <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/layout/activity_ex1.xml" value="0.25" />
-        <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/layout/activity_ex2.xml" value="0.17806484295845998" />
+        <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/layout/activity_ex2.xml" value="0.25" />
         <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/layout/activity_ex3.xml" value="0.17806484295845998" />
+        <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/layout/activity_ex4.xml" value="0.1" />
         <entry key="..\:/DATA/AndroidBasic2/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
